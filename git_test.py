@@ -1,3 +1,3 @@
 print ("I am beginner with GIT")
 print ("Basics of GIT")
-print ("GIT")
+print ("GIT2")
